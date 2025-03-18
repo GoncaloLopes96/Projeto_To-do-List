@@ -23,7 +23,7 @@ Uma aplicação simples de lista de tarefas construída com **React**, **TypeScr
 1. Clonar o repositório:  
    ```sh
    git clone https://github.com/teu-usuario/todo-list-app.git
-   cd todo-list-app
+   cd to-do-list
    ```
 
 2. Instalar as dependências:  
